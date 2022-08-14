@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 ## Interests
 * Bayesian Inference and Computation
+  * State Space Models and Gaussian Processes
+  * Decision Analysis
+  * MCMC, Variational Inference and Sequential Monte Carlo
 * Machine Learning
 * Transportation Modelling
