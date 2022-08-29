@@ -1,4 +1,8 @@
-### Hi there 👋
+###
+
+My Blog: [Link](https://lakarbach.netlify.app/)
+
+Hey there! My name is Lars Karbach i'm an enrolled Master Student in Germany. My main research interests include Bayesian Inference and Computation aswell as Machine Learning. The domains in which I prefer to use these methods are Transportation Modelling, Spatial Statistics and Finance.
 
 <!--
 **LarsKarbach/LarsKarbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Interests
-* Bayesian Inference and Computation
-  * State Space Models and Gaussian Processes
-  * Decision Analysis
-  * MCMC, Variational Inference and Sequential Monte Carlo
-* Machine Learning
-* Transportation Modelling
