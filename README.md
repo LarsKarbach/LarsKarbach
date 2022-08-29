@@ -1,6 +1,6 @@
 ###
 
-My Blog: [Link](https://lakarbach.netlify.app/)
+My Blog: [https://lakarbach.netlify.app/](https://lakarbach.netlify.app/)
 
 Hey there! My name is Lars Karbach i'm an enrolled Master Student in Germany. My main research interests include Bayesian Inference and Computation aswell as Machine Learning. The domains in which I prefer to use these methods are Transportation Modelling, Spatial Statistics and Finance.
 
